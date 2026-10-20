@@ -1,0 +1,8 @@
+{
+  "appId": "com.senin.sekeresegi",
+  "appName": "Şeker Eşeği",
+  "webDir": "www",
+  "backgroundColor": "#7b3fe4",
+  "ios": { "contentInset": "never" },
+  "android": { "allowMixedContent": false }
+}
